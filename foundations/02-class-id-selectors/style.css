@@ -7,3 +7,12 @@
     color: blue;
     font-size: 36px;
 }
+
+.fs-24 {
+    font-size: 24px;
+}
+
+#el-4 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
