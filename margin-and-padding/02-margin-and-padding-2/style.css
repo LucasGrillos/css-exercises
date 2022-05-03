@@ -1,5 +1,5 @@
 body {
-  background: #eee;
+  background: rgb(145, 154, 239);
   font-family: sans-serif;
 }
 
@@ -7,21 +7,32 @@ body {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title {
+  font-size: 22px;
+  font-weight: bold;
   background: #e3f4ff;
+  margin: 0;
+  
 }
 
 .content {
+  margin-top: 20px;
+  margin-bottom: 20px;
   background: #e3f4ff;
 }
 
 .button-container {
+  text-align: center;
   background: #e3f4ff;
 }
 
 button {
+  display: block;
+  margin: auto;
+  padding: 8px;
   background: white;
   border: 1px solid #eee;
 }
